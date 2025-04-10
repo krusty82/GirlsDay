@@ -1,3 +1,5 @@
+// Text vom Handy ans Display senden
+
 // WLAN Einstellungen
 
 const char *ssid = "Girlsday";

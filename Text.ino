@@ -1,3 +1,5 @@
+// einfaches Beispiel um Text auf dem Display anzuzeigen
+
 #include <ESP8266WiFi.h>
 #include <ESPAsyncWebServer.h>
 #include <Wire.h>
